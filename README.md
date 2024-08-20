@@ -29,7 +29,7 @@ This project involves a comprehensive sequence analysis of the human TNF gene. T
 
 3. **Finding ORFs (Open Reading Frames) in a DNA or RNA Sequence**
    - Objective: Identify ORFs within the TNF gene sequence.
-   - Tools: BioEdit, SMART BLAST
+   - Tools: BioEdit
 
 4. **Analyze Sequence Composition (Nucleotide or Amino Acid Frequencies)**
    - Objective: Analyze the nucleotide composition of the TNF gene sequence.
