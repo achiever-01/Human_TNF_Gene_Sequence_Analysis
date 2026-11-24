@@ -8,11 +8,8 @@ This project involves a comprehensive sequence analysis of the human TNF gene. T
 - **Data/**  
   Contains the raw data files used in the analysis. This includes sequence files in FASTA format and other relevant datasets.
   
-- **Figures/**  
-  Stores all the images, screenshots, and figures generated during the analysis. These include graphical outputs from tools like BioEdit, PROMO, MEME Suite, and GENSCAN.
-  
-- **Outputs/**  
-  Contains the result files from the analysis. This includes the outputs from ORF analysis, motif searches, transcription factor binding site identification, and sequence composition analysis.
+- **Output_Figures/**  
+  Stores all the images, screenshots, and figures generated during the analysis. These include graphical outputs from BioEdit, PROMO, MEME Suite, and GENSCAN. Includes outputs from ORF analysis, motif searches, transcription factor binding site identification, and sequence composition analysis.
   
 - **Report/**  
   Includes the final report summarizing the entire project. The report details the methods used, results obtained, and interpretations. The report is provided in PDF format.
